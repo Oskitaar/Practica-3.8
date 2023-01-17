@@ -1,0 +1,32 @@
+body{
+    background-color: peachpuff;
+}
+
+header#titulo{
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+}
+
+img#img_carta{
+    width: 300px;
+    height: 400px;
+}
+
+img#img_cafe{
+    width: 300px;
+}
+
+img#img_contacto{
+    width: 300px;
+}
+
+div#cafe{
+    margin-left: 35%;
+}
+
+div#contacto{
+    margin-left: 70%;
+}
+
+
