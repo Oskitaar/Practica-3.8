@@ -37,3 +37,7 @@ p{
 pre{
     color: brown;
 }
+
+span#negrita{
+    font-weight: bold;    
+}
