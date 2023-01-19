@@ -5,7 +5,8 @@ body{
 header#titulo{
     text-align: center;
     font-size: 50px;
-    color: brown;
+    color: darkred;
+    font-weight: bold;
 }
 
 img#img_carta{
@@ -29,4 +30,10 @@ div#contacto{
     margin-left: 70%;
 }
 
+p{
+    color: brown;
+}
 
+pre{
+    color: brown;
+}
